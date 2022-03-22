@@ -1,7 +1,7 @@
 ## DCF-Model
 Discounted Cash Flow Model of BMW
 
-DCF Model is one of the most widely used valuation models. We start by calculating the Weighted Average Cost of Capital and then use it to Discount the Future Cash Flows to find its Enterprise Value. 
+DCF Model is one of the most widely used valuation models. I have started by calculating the Weighted Average Cost of Capital and then used it to Discount the Future Cash Flows to find its Enterprise Value. 
 
 <br>
 Some interesting resources I found on DCF Modeling:
